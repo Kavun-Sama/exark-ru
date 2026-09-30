@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/ExarkRu.Runtime/ExarkRu.Runtime.csproj" />
+  <Project Path="src/ExarkRu.Patcher/ExarkRu.Patcher.csproj" />
+</Solution>
+

@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <GameRoot Condition="'$(GameRoot)' == ''">D:\Tools\Steam\steamapps\common\Exark</GameRoot>
+    <GameManagedDir>$(GameRoot)\Exark_Data\Managed</GameManagedDir>
+  </PropertyGroup>
+</Project>
+

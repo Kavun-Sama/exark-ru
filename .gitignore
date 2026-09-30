@@ -1,0 +1,7 @@
+artifacts/
+src/**/bin/
+src/**/obj/
+tests/**/bin/
+tests/**/obj/
+tools/__pycache__/
+

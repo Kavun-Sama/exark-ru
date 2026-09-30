@@ -1,0 +1,463 @@
+{"id":110868298563624,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563623,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563622,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563621,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563620,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563619,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563618,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563617,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563616,"text":"Каждый раз, когда вы <color=#0000b0>улучшаете</color> любое здание, кроме <color=#0000b0>Башни из слоновой кости</color>, <color=#0000b0>улучшайте</color> это здание."}
+{"id":110868298563615,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563614,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563613,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563612,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563611,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563610,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563609,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563608,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563607,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563606,"text":"Получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":110868298563605,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> это здание на <color=#0000b0>2 с</color>."}
+{"id":110868298563604,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> это здание на <color=#0000b0>1.5 с</color>."}
+{"id":110868298563603,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> это здание на <color=#0000b0>1 с</color>."}
+{"id":110868298563602,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":110868298563601,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":110868298563600,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":110868298563599,"text":"Каждый раз, когда здание, кроме Шестерёнчатой мельницы, на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, это здание <sprite name=\"cycle\"> завершает цикл."}
+{"id":110868298563598,"text":"Каждый раз, когда здание, кроме Шестерёнчатой мельницы, на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, это здание <sprite name=\"cycle\"> завершает цикл."}
+{"id":110868298563597,"text":"Каждый раз, когда здание, кроме Шестерёнчатой мельницы, на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, это здание <sprite name=\"cycle\"> завершает цикл."}
+{"id":110868298563596,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":110868298563595,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":110868298563594,"text":"Получите {0:0.##}<sprite name=\"production\">."}
+{"id":79661246545933,"text":"Каждое здание на клетке <sprite name=\"indicator\"> справа получает <color=#0000b0>+1</color> <color=#0000b0>к множителю критического урона</color>."}
+{"id":79661246545932,"text":"Каждое здание на клетке <sprite name=\"indicator\"> слева получает <color=#0000b0>+100%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":79661246545931,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\">."}
+{"id":79661246545930,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\">."}
+{"id":79661246545929,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\">."}
+{"id":79661246545928,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, оно получает <color=#0000b0>+5%</color> <color=#0000b0>к шансу критического удара</color> до конца полёта."}
+{"id":79661246545927,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, оно получает <color=#0000b0>+3%</color> <color=#0000b0>к шансу критического удара</color> до конца полёта."}
+{"id":79661246545926,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, оно получает <color=#0000b0>+2%</color> <color=#0000b0>к шансу критического удара</color> до конца полёта."}
+{"id":79661246545925,"text":"Бонус <sprite name=\"cycle\"> к скорости цикла от избытка <sprite name=\"food\"> значительно увеличен."}
+{"id":79661246545923,"text":"Бонус <sprite name=\"cycle\"> к скорости цикла от избытка <sprite name=\"food\"> немного увеличен."}
+{"id":73499637809157,"text":"Каждый раз, когда это здание <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> на <color=#0000b0>1.5 с</color>."}
+{"id":73499637809156,"text":"Каждый раз, когда это здание <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> на <color=#0000b0>1 с</color>."}
+{"id":73499637809155,"text":"Каждый раз, когда это здание <sprite name=\"cycle\"> завершает цикл, <color=#0000b0>ускорьте</color> каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> на <color=#0000b0>0.5 с</color>."}
+{"id":72534146777093,"text":"Каждый раз, когда вы получаете здание, это здание навсегда начинает производить <color=#0000b0>+3</color><sprite name=\"food\">."}
+{"id":72534146777092,"text":"Каждый раз, когда вы получаете здание, это здание навсегда начинает производить <color=#0000b0>+2</color><sprite name=\"food\">."}
+{"id":72534146777091,"text":"Каждый раз, когда вы получаете здание, это здание навсегда начинает производить <color=#0000b0>+1</color><sprite name=\"food\">."}
+{"id":68626028527621,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+100%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":68626028527620,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+60%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":68626028527619,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+30%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":61210113179653,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#ff0022>{0:0.##}%</color> медленнее."}
+{"id":61210113179652,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#ff0022>{0:0.##}%</color> медленнее."}
+{"id":61210113179651,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#ff0022>{0:0.##}%</color> медленнее."}
+{"id":59879747059717,"text":"Каждое здание на клетке <sprite name=\"indicator\"> наносит <color=#0000b0>+5</color> урона."}
+{"id":59879747059716,"text":"Каждое здание на клетке <sprite name=\"indicator\"> наносит <color=#0000b0>+4</color> урона."}
+{"id":59879747059715,"text":"Каждое здание на клетке <sprite name=\"indicator\"> наносит <color=#0000b0>+3</color> урона."}
+{"id":55281313480709,"text":"Каждый раз, когда вы утилизируете здание, это здание навсегда начинает производить <color=#0000b0>+6</color><sprite name=\"production\">."}
+{"id":55281313480708,"text":"Каждый раз, когда вы утилизируете здание, это здание навсегда начинает производить <color=#0000b0>+4</color><sprite name=\"production\">."}
+{"id":55281313480707,"text":"Каждый раз, когда вы утилизируете здание, это здание навсегда начинает производить <color=#0000b0>+2</color><sprite name=\"production\">."}
+{"id":53691298971653,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, производит <color=#0000b0>+5</color><sprite name=\"inspiration\">."}
+{"id":53691298971652,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, производит <color=#0000b0>+3</color><sprite name=\"inspiration\">."}
+{"id":53691298971651,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, производит <color=#0000b0>+2</color><sprite name=\"inspiration\">."}
+{"id":50948580671493,"text":""}
+{"id":50948580671492,"text":""}
+{"id":49702524256258,"text":"Получите {0:0.##} <sprite name=\"inspiration\">."}
+{"id":49702524256261,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#0000b0>100%</color> быстрее."}
+{"id":46994954223616,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"production\">."}
+{"id":7265016139841536,"text":"Нет эффектов."}
+{"id":46994954223617,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"production\">."}
+{"id":44303981051904,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"production\">."}
+{"id":44303981051905,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#0000b0>25%</color> быстрее."}
+{"id":49702524256259,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#0000b0>25%</color> быстрее."}
+{"id":49702524256260,"text":"Каждое здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает циклы на <color=#0000b0>50%</color> быстрее."}
+{"id":19039175671809,"text":"Получите 3<sprite name=\"production\"> за каждого члена экипажа и каждый предмет в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"production\">)."}
+{"id":14230678765568,"text":""}
+{"id":14230678765569,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":14230678765570,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":14230678765571,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":106071427702947840,"text":"Нанесите {1:0.##} урона."}
+{"id":106071427702947841,"text":"Нанесите {1:0.##} урона."}
+{"id":106071427702947842,"text":"Нанесите {1:0.##} урона."}
+{"id":14230678765578,"text":"Каждый раз, когда вы входите в поселение, стоимость этого здания при утилизации увеличивается на <color=#0000b0>+20</color><sprite name=\"gold\">."}
+{"id":14230678765579,"text":"Каждый раз, когда вы входите в поселение, стоимость этого здания при утилизации увеличивается на <color=#0000b0>+35</color><sprite name=\"gold\">."}
+{"id":14230678765580,"text":"Каждый раз, когда вы входите в поселение, стоимость этого здания при утилизации увеличивается на <color=#0000b0>+50</color><sprite name=\"gold\">."}
+{"id":14230678765581,"text":"Получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"gold\">."}
+{"id":14230678765582,"text":"Получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"gold\">."}
+{"id":14230678765583,"text":"Получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"gold\">."}
+{"id":14230678765584,"text":"Получите {0:0.##}<sprite name=\"food\">, {1:0.##}<sprite name=\"production\"> и {2:0.##}<sprite name=\"inspiration\">. Стройте это здание только на клетке <color=#0000b0>Ядра</color>."}
+{"id":50948580671491,"text":""}
+{"id":14230678765591,"text":"Нанесите {1:0.##} урона. Стройте это здание только на клетке <color=#0000b0>Левого борта</color> или <color=#0000b0>Правого борта</color>."}
+{"id":14230678765592,"text":"Нанесите {1:0.##} урона. Стройте это здание только на клетке <color=#0000b0>Левого борта</color> или <color=#0000b0>Правого борта</color>."}
+{"id":14230678765593,"text":"Нанесите {1:0.##} урона. Стройте это здание только на клетке <color=#0000b0>Левого борта</color> или <color=#0000b0>Правого борта</color>."}
+{"id":14230678765594,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#0000b0>+2</color> ресурса."}
+{"id":14230678765595,"text":"Получите 1<sprite name=\"inspiration\"> и ещё +0.5<sprite name=\"inspiration\"> за каждую пустую клетку <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":14230678765596,"text":"Получите 2<sprite name=\"inspiration\"> и ещё +2<sprite name=\"inspiration\"> за каждого члена экипажа, назначенного на это здание ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":14230678765597,"text":"Получите 3<sprite name=\"inspiration\"> и ещё +3<sprite name=\"inspiration\"> за каждого члена экипажа, назначенного на это здание ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":14230678765598,"text":"Получите 5<sprite name=\"inspiration\"> и ещё +5<sprite name=\"inspiration\"> за каждого члена экипажа, назначенного на это здание ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":59879747059714,"text":"Получите {0:0.##} <sprite name=\"armor\"> <color=#0000b0>брони</color>."}
+{"id":59879747059713,"text":"Получите {0:0.##} <sprite name=\"armor\"> <color=#0000b0>брони</color>."}
+{"id":59879747059712,"text":"Получите {0:0.##} <sprite name=\"armor\"> <color=#0000b0>брони</color>."}
+{"id":66882552823813,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":66882552823812,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":66882552823811,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":56459648663556,"text":"Каждый раз, когда вы получаете это здание, получите <color=#0000b0>Варана</color>."}
+{"id":56459648663555,"text":"Каждый раз, когда вы получаете это здание, получите <color=#0000b0>Варана</color>."}
+{"id":56459648663554,"text":"Получите {0:0.##}</color><sprite name=\"food\">."}
+{"id":56459648663553,"text":"Получите {0:0.##}</color><sprite name=\"food\">."}
+{"id":56459648663552,"text":"Получите {0:0.##}</color><sprite name=\"food\">."}
+{"id":14230678765614,"text":"Получите 1<sprite name=\"gold\"> и ещё +1<sprite name=\"gold\"> за каждый уникальный <color=#0000b0>тег</color> каждого здания на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"gold\">)."}
+{"id":14230678765615,"text":"Получите 2<sprite name=\"gold\"> и ещё +2<sprite name=\"gold\"> за каждый уникальный <color=#0000b0>тег</color> каждого здания на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"gold\">)."}
+{"id":14230678765616,"text":"Получите 3<sprite name=\"gold\"> и ещё +3<sprite name=\"gold\"> за каждый уникальный <color=#0000b0>тег</color> каждого здания на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"gold\">)."}
+{"id":66882552823810,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":66882552823809,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":66882552823808,"text":"Каждый раз, когда здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":14230678765624,"text":"Нанесите {1:0.##} урона и <color=#0000b0>заморозьте</color> цель на 0.5 с."}
+{"id":14230678765625,"text":"Нанесите {1:0.##} урона и <color=#0000b0>заморозьте</color> цель на 1 с."}
+{"id":14230678765626,"text":"Нанесите {1:0.##} урона и <color=#0000b0>заморозьте</color> цель на 1.5 с."}
+{"id":14230678765631,"text":"Получите 3<sprite name=\"food\"> и ещё +1<sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл, завершённый этим зданием в текущем полёте ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765632,"text":"Получите 7<sprite name=\"food\"> и ещё +2<sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл, завершённый этим зданием в текущем полёте ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765633,"text":"Получите 12<sprite name=\"food\"> и ещё +3<sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл, завершённый этим зданием в текущем полёте ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765637,"text":"Получите 2<sprite name=\"production\"> и ещё +2<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге ({0:0.##}<sprite name=\"production\">)."}
+{"id":14230678765638,"text":"Получите 3<sprite name=\"production\"> и ещё +3<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге ({0:0.##}<sprite name=\"production\">)."}
+{"id":14230678765639,"text":"Получите 5<sprite name=\"production\"> и ещё +5<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге ({0:0.##}<sprite name=\"production\">)."}
+{"id":14230678765643,"text":"Каждый раз, когда вы утилизируете или расходуете члена экипажа либо предмет, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":14230678765644,"text":"Каждый раз, когда вы утилизируете или расходуете члена экипажа либо предмет, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":14230678765645,"text":"Каждый раз, когда вы утилизируете или расходуете члена экипажа либо предмет, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":15713709880868864,"text":"Каждый раз, когда вы входите в поселение, <color=#0000b0>улучшите</color> это здание."}
+{"id":68626028527618,"text":"Каждый раз, когда здание <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"inspiration\"> (этот эффект не может сработать критически)."}
+{"id":68626028527617,"text":"Каждый раз, когда здание <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"inspiration\"> (этот эффект не может сработать критически)."}
+{"id":68626028527616,"text":"Каждый раз, когда здание <color=#0000b0>наносит критический удар</color>, получите {0:0.##}<sprite name=\"production\"> и {1:0.##}<sprite name=\"inspiration\"> (этот эффект не может сработать критически)."}
+{"id":72534146777090,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":72534146777089,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":72534146777088,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":79661246545922,"text":"Каждый раз, когда здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"food\">."}
+{"id":79661246545921,"text":"Каждый раз, когда здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"food\">."}
+{"id":79661246545920,"text":"Каждый раз, когда здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> завершает цикл, получите {0:0.##}<sprite name=\"food\">."}
+{"id":14230678765661,"text":"<color=#0000b0>Установите</color> другое здание на это <color=#0000b0>здание</color>, чтобы получить его эффекты.<br>"}
+{"id":14230678765666,"text":"Получите 1<sprite name=\"gold\"> и 1<sprite name=\"inspiration\"> за каждое здание <sprite name=\"commercial0\"><sprite name=\"commercial1\"><sprite name=\"commercial2\">, которое НЕ находится на клетке <sprite name=\"indicator\"> <color=#0000b0>({0:0.##}<sprite name=\"gold\"></color> и <color=#0000b0>({1:0.##}<sprite name=\"inspiration\">)</color>)."}
+{"id":14230678765667,"text":"Получите 2<sprite name=\"gold\"> и 2<sprite name=\"inspiration\"> за каждое здание <sprite name=\"commercial0\"><sprite name=\"commercial1\"><sprite name=\"commercial2\">, которое НЕ находится на клетке <sprite name=\"indicator\"> <color=#0000b0>({0:0.##}<sprite name=\"gold\"></color> и <color=#0000b0>({1:0.##}<sprite name=\"inspiration\">)</color>)."}
+{"id":14230678765668,"text":"Получите 3<sprite name=\"gold\"> и 3<sprite name=\"inspiration\"> за каждое здание <sprite name=\"commercial0\"><sprite name=\"commercial1\"><sprite name=\"commercial2\">, которое НЕ находится на клетке <sprite name=\"indicator\"> <color=#0000b0>({0:0.##}<sprite name=\"gold\"></color> и <color=#0000b0>({1:0.##}<sprite name=\"inspiration\">)</color>)."}
+{"id":14230678765669,"text":"Каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"production\">, до конца полёта производит <color=#0000b0>+1</color><sprite name=\"production\">."}
+{"id":14230678765670,"text":"Каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"production\">, до конца полёта производит <color=#0000b0>+3</color><sprite name=\"production\">."}
+{"id":14230678765671,"text":"Каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"production\">, до конца полёта производит <color=#0000b0>+5</color><sprite name=\"production\">."}
+{"id":110868298563585,"text":"<color=#0000b0>Чертежи</color> и <color=#0000b0>Контракты</color> предлагают варианты немного более высокого качества."}
+{"id":14230678765675,"text":"Каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, навсегда начинает производить <color=#0000b0>+1</color><sprite name=\"inspiration\">."}
+{"id":14230678765676,"text":"Каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, навсегда начинает производить <color=#0000b0>+1</color><sprite name=\"inspiration\">."}
+{"id":14230678765677,"text":"Каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, навсегда начинает производить <color=#0000b0>+1</color><sprite name=\"inspiration\">."}
+{"id":110868298563584,"text":"Каждый раз, когда вы входите в поселение, получите 2 случайных предмета <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">."}
+{"id":14230678765682,"text":"Получите <sprite name=\"food\">, <sprite name=\"production\"> и <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>2x</color> числу уникальных зданий <sprite name=\"guild0\"><sprite name=\"guild1\"><sprite name=\"guild2\"> на ковчеге <color=#0000b0>({0:0.##}<sprite name=\"food\">)</color>, <color=#0000b0>({1:0.##}<sprite name=\"production\">)</color>, <color=#0000b0>({2:0.##}<sprite name=\"inspiration\">)</color>."}
+{"id":14230678765683,"text":"Получите <sprite name=\"food\">, <sprite name=\"production\"> и <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>3x</color> числу уникальных зданий <sprite name=\"guild0\"><sprite name=\"guild1\"><sprite name=\"guild2\"> на ковчеге <color=#0000b0>({0:0.##}<sprite name=\"food\">)</color>, <color=#0000b0>({1:0.##}<sprite name=\"production\">)</color>, <color=#0000b0>({2:0.##}<sprite name=\"inspiration\">)</color>."}
+{"id":14230678765684,"text":"Получите <sprite name=\"food\">, <sprite name=\"production\"> и <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>4x</color> числу уникальных зданий <sprite name=\"guild0\"><sprite name=\"guild1\"><sprite name=\"guild2\"> на ковчеге <color=#0000b0>({0:0.##}<sprite name=\"food\">)</color>, <color=#0000b0>({1:0.##}<sprite name=\"production\">)</color>, <color=#0000b0>({2:0.##}<sprite name=\"inspiration\">)</color>."}
+{"id":14230678765688,"text":"Нанесите {1:0.##} урона и наложите <color=#0000b0>Горение</color> в количестве, равном нанесённому урону."}
+{"id":14230678765689,"text":"Нанесите {1:0.##} урона и наложите <color=#0000b0>Горение</color> в количестве, равном нанесённому урону."}
+{"id":14230678765690,"text":"Нанесите {1:0.##} урона и наложите <color=#0000b0>Горение</color> в количестве, равном нанесённому урону."}
+{"id":14230678765694,"text":"Это здание можно использовать, чтобы <color=#0000b0>улучшить</color> любое здание. (Перетащите это здание на другое, чтобы <color=#0000b0>улучшить</color> его.)"}
+{"id":8371607039737856,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"food\">, производит +{0:0.##} <sprite name=\"food\">."}
+{"id":14230678765707,"text":"Получите 2<sprite name=\"food\"> и ещё +2<sprite name=\"food\"> за каждый <color=#0000b0>уровень улучшения</color> зданий на клетках <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765708,"text":"Получите 3<sprite name=\"food\"> и ещё +3<sprite name=\"food\"> за каждый <color=#0000b0>уровень улучшения</color> зданий на клетках <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765709,"text":"Получите 5<sprite name=\"food\"> и ещё +5<sprite name=\"food\"> за каждый <color=#0000b0>уровень улучшения</color> зданий на клетках <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":130769964859399,"text":"Когда вы получаете это здание, получите члена экипажа <sprite name=\"animal0\"><sprite name=\"animal1\"><sprite name=\"animal2\">."}
+{"id":130769964859398,"text":"Когда вы получаете это здание, получите члена экипажа <sprite name=\"animal0\"><sprite name=\"animal1\"><sprite name=\"animal2\">."}
+{"id":130769964859397,"text":"Когда вы получаете это здание, получите члена экипажа <sprite name=\"animal0\"><sprite name=\"animal1\"><sprite name=\"animal2\">."}
+{"id":130769964859396,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"production\">."}
+{"id":130769964859395,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"production\">."}
+{"id":130769964859394,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"production\">."}
+{"id":130769964859393,"text":"<color=#0000b0><b>Богатая жила</b> — Каждое здание, построенное на клетке <color=#0000b0>Роктория</color> или <color=#0000b0>Орихалка</color>, производит соответственно <color=#0000b0>+30%</color> <sprite name=\"food\"> или <sprite name=\"production\">.</color>"}
+{"id":130769964859392,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"production\">.<br>"}
+{"id":134332711534605,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, это здание и каждое здание <sprite name=\"rite0\"><sprite name=\"rite1\"><sprite name=\"rite2\"> <sprite name=\"cycle\"> завершают цикл <color=#0000b0>x3</color>."}
+{"id":14230678765744,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"production\">, производит +{0:0.##} <sprite name=\"production\">."}
+{"id":112183847017734144,"text":"Когда вы размещаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">, получите <color=#0000b0>2</color> здания <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\">.<br>"}
+{"id":134332711534604,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, это здание и каждое здание <sprite name=\"rite0\"><sprite name=\"rite1\"><sprite name=\"rite2\"> <sprite name=\"cycle\"> завершают цикл <color=#0000b0>x2</color>."}
+{"id":134332711534603,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, это здание и каждое здание <sprite name=\"rite0\"><sprite name=\"rite1\"><sprite name=\"rite2\"> <sprite name=\"cycle\"> завершают цикл."}
+{"id":14230678765753,"text":"Утилизируйте меня."}
+{"id":134332711534599,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, оно до конца полёта производит <color=#0000b0>+7</color><sprite name=\"food\">."}
+{"id":134332711534598,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, оно до конца полёта производит <color=#0000b0>+4</color><sprite name=\"food\">."}
+{"id":134332711534597,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на это здание, оно до конца полёта производит <color=#0000b0>+2</color><sprite name=\"food\">."}
+{"id":134332711534596,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":134332711534595,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":14230678765764,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#0000b0>+20%</color> ресурсов."}
+{"id":134332711534594,"text":"Получите {0:0.##}<sprite name=\"food\">."}
+{"id":143429267718144,"text":"<color=#0000b0>Ускорьте</color> каждое здание на клетке <sprite name=\"indicator\"> на <color=#0000b0>0.5 с</color>."}
+{"id":134332711534592,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"inspiration\">.<br>"}
+{"id":9091177249603584,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"inspiration\">, производит +{0:0.##} <sprite name=\"inspiration\">."}
+{"id":14230678765786,"text":"Получите 1<sprite name=\"food\"> и ещё <sprite name=\"food\"> в количестве, равном <color=#0000b0>размеру</color> каждого здания <sprite name=\"organ0\"><sprite name=\"organ1\"><sprite name=\"organ2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765787,"text":"Получите 2<sprite name=\"food\"> и ещё <sprite name=\"food\"> в количестве, равном <color=#0000b0>размеру</color> каждого здания <sprite name=\"organ0\"><sprite name=\"organ1\"><sprite name=\"organ2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765788,"text":"Получите 3<sprite name=\"food\"> и ещё <sprite name=\"food\"> в количестве, равном <color=#0000b0>размеру</color> каждого здания <sprite name=\"organ0\"><sprite name=\"organ1\"><sprite name=\"organ2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":14230678765789,"text":"Нанесите 3 урона и наложите <color=#0000b0>Замедление</color>, +1 к урону за каждый цикл, завершённый этим зданием в текущем полёте ({1:0.##} урона)."}
+{"id":14230678765790,"text":"Нанесите 5 урона и наложите <color=#0000b0>Замедление</color>, +2 к урону за каждый цикл, завершённый этим зданием в текущем полёте ({1:0.##} урона)."}
+{"id":14230678765791,"text":"Нанесите 7 урона и наложите <color=#0000b0>Замедление</color>, +3 к урону за каждый цикл, завершённый этим зданием в текущем полёте ({1:0.##} урона)."}
+{"id":14230678765795,"text":"Каждое здание на клетке <sprite name=\"indicator\"> до конца полёта производит <color=#0000b0>+1</color> ресурса."}
+{"id":14230678765796,"text":"Каждое здание на клетке <sprite name=\"indicator\"> до конца полёта производит <color=#0000b0>+1</color> ресурса."}
+{"id":14230678765797,"text":"Каждое здание на клетке <sprite name=\"indicator\"> до конца полёта производит <color=#0000b0>+1</color> ресурса."}
+{"id":14230678765801,"text":"Получите {0:0.##}<sprite name=\"food\">. Если у вас 1,000 или больше <sprite name=\"food\">, вместо этого получите 1% от текущего количества <sprite name=\"food\">, но не более 100<sprite name=\"food\"> ({1:0.##}<sprite name=\"food\">)."}
+{"id":14230678765802,"text":"Получите {0:0.##}<sprite name=\"food\">. Если у вас 1,000 или больше <sprite name=\"food\">, вместо этого получите 2% от текущего количества <sprite name=\"food\">, но не более 200<sprite name=\"food\"> ({1:0.##}<sprite name=\"food\">)."}
+{"id":14230678765803,"text":"Получите {0:0.##}<sprite name=\"food\">. Если у вас 1,000 или больше <sprite name=\"food\">, вместо этого получите 3% от текущего количества <sprite name=\"food\">, но не более 300<sprite name=\"food\"> ({1:0.##}<sprite name=\"food\">)."}
+{"id":14230678765804,"text":"<color=#0000b0>Ускорьте</color> каждое здание на клетке <sprite name=\"indicator\"> на <color=#0000b0>1 с</color>."}
+{"id":143429267718149,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> <color=#0000b0>завершает цикл</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":143429267718148,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> <color=#0000b0>завершает цикл</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":14230678765820,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#0000b0>+30%</color> <sprite name=\"gold\">, <sprite name=\"production\"> и <sprite name=\"inspiration\">, но расходует <color=#0000b0>+5</color> <sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл."}
+{"id":14230678765821,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#0000b0>+50%</color> <sprite name=\"gold\">, <sprite name=\"production\"> и <sprite name=\"inspiration\">, но расходует <color=#0000b0>+7</color> <sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл."}
+{"id":14230678765822,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#0000b0>+100%</color> <sprite name=\"gold\">, <sprite name=\"production\"> и <sprite name=\"inspiration\">, но расходует <color=#0000b0>+14</color> <sprite name=\"food\"> за каждый <sprite name=\"cycle\"> цикл."}
+{"id":14230678765823,"text":"Нанесите каждому врагу {0:0.##}x{1:0.##} урона."}
+{"id":14230678765824,"text":"Нанесите каждому врагу {0:0.##}x{1:0.##} урона."}
+{"id":14230678765825,"text":"Нанесите каждому врагу {0:0.##}x{1:0.##} урона."}
+{"id":143429267718147,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <sprite name=\"cycle\"> <color=#0000b0>завершает цикл</color>, получите {0:0.##}<sprite name=\"gold\">."}
+{"id":143429267718146,"text":"<color=#0000b0>Ускорьте</color> каждое здание на клетке <sprite name=\"indicator\"> на <color=#0000b0>0.5 с</color>."}
+{"id":143429267718145,"text":"<color=#0000b0>Ускорьте</color> каждое здание на клетке <sprite name=\"indicator\"> на <color=#0000b0>0.5 с</color>."}
+{"id":5943569152835584,"text":"Нанесите {1:0.##} урона <color=#0000b0>самому нижнему</color> врагу."}
+{"id":5943569203167232,"text":"Нанесите {1:0.##} урона <color=#0000b0>самому нижнему</color> врагу."}
+{"id":5943569203167233,"text":"Нанесите {1:0.##} урона <color=#0000b0>самому нижнему</color> врагу."}
+{"id":7250978756460544,"text":"Здания <sprite name=\"statue0\"><sprite name=\"statue1\"><sprite name=\"statue2\"> производят <color=#0000b0>+200%</color> ресурсов и наносят <color=#0000b0>+200%</color> урона."}
+{"id":7250978806792192,"text":"Когда вы получаете это здание, получите <color=#0000b0>3</color> <color=#0000b0>Статуи</color>."}
+{"id":7250978806792193,"text":"Получите <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>удвоенному</color> числу букв в названиях всех зданий на клетках <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":8114399752323074,"text":""}
+{"id":8114399752323075,"text":""}
+{"id":9079286271934464,"text":"В начале полёта, если это здание построено на клетке <color=#0000b0>Носа</color>, <color=#0000b0>+5 с</color> <color=#0000b0>ко времени полёта</color>. В противном случае <color=#0000b0>-5 с</color> <color=#0000b0>ко времени полёта</color>. Стройте это здание только на клетке <color=#0000b0>Носа</color> или <color=#0000b0>Кормы</color>."}
+{"id":9800479870386178,"text":"<color=#0000b0>+100%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":9800479870386184,"text":"<color=#0000b0>+100%</color> <color=#0000b0>к шансу мультисрабатывания</color>."}
+{"id":111143843306889217,"text":"Каждый раз, когда это здание <color=#0000b0>ускоряется</color>, нанесите {1:0.##} урона и наложите <color=#0000b0>Замедление 3</color>."}
+{"id":111143843306889216,"text":"Каждый раз, когда это здание <color=#0000b0>ускоряется</color>, нанесите {1:0.##} урона и наложите <color=#0000b0>Замедление 2</color>."}
+{"id":111143843264946176,"text":"Каждый раз, когда это здание <color=#0000b0>ускоряется</color>, нанесите {1:0.##} урона и наложите <color=#0000b0>Замедление</color>."}
+{"id":12078132065304576,"text":"Получите {0:0.##}<sprite name=\"food\">, {1:0.##}<sprite name=\"production\"> и {2:0.##}<sprite name=\"inspiration\">.<br>"}
+{"id":12078132165967872,"text":"<color=#0000b0><b>Сияние</b> —<br>Каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> производит +1<sprite name=\"production\"> за каждое другое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге.<br>Каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> производит +1<sprite name=\"inspiration\"> за каждое другое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге.</color>"}
+{"id":12078132165967873,"text":"<color=#0000b0><b>Адреналин</b> — Каждый раз, когда это здание завершает <sprite name=\"cycle\"> цикл, его следующий <sprite name=\"cycle\"> цикл выполняется на <color=#0000b0>10%</color> быстрее до конца полёта.</color>"}
+{"id":106070597612437506,"text":"Получите 5<sprite name=\"production\"> и ещё +5<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"production\">)."}
+{"id":106070597612437505,"text":"Получите 3<sprite name=\"production\"> и ещё +3<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"production\">)."}
+{"id":106070597612437504,"text":"Получите 2<sprite name=\"production\"> и ещё +2<sprite name=\"production\"> за каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"production\">)."}
+{"id":13059437947092992,"text":"Каждый раз, когда ковчег получает урон, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":14688777109602362,"text":"В начале полёта здания <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> и <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге производят <color=#0000b0>+2</color> ресурсов до конца полёта."}
+{"id":14688777109602363,"text":"В начале полёта здания <sprite name=\"commercial0\"><sprite name=\"commercial1\"><sprite name=\"commercial2\"> и <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге производят <color=#0000b0>+2</color> ресурсов до конца полёта."}
+{"id":14688777109602364,"text":"В начале полёта здания <sprite name=\"military0\"><sprite name=\"military1\"><sprite name=\"military2\"> на ковчеге наносят <color=#0000b0>+2</color> урона до конца полёта."}
+{"id":14688777109602365,"text":"В начале полёта здания <sprite name=\"reactor0\"><sprite name=\"reactor1\"><sprite name=\"reactor2\"> на ковчеге производят <color=#0000b0>+4</color> ресурсов до конца полёта."}
+{"id":14688777109602366,"text":"В начале полёта здания размера <color=#0000b0>1</color> на ковчеге производят <color=#0000b0>+2</color> ресурсов до конца полёта."}
+{"id":14688777109602367,"text":"В начале полёта крупнейшее здание или здания на ковчеге производят <color=#0000b0>+4</color> ресурсов до конца полёта."}
+{"id":14688777109602368,"text":"В начале полёта здания <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> и <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге получают <color=#0000b0>+15%</color> <color=#0000b0>к шансу критического удара</color> до конца полёта."}
+{"id":14688777109602369,"text":"В начале полёта здания <sprite name=\"commercial0\"><sprite name=\"commercial1\"><sprite name=\"commercial2\"> и <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге получают <color=#0000b0>+15%</color> <color=#0000b0>к шансу критического удара</color> до конца полёта."}
+{"id":14688777109602370,"text":"В начале полёта здания на ковчеге получают <color=#0000b0>+0.3x</color> <color=#0000b0>к множителю критического урона</color> до конца полёта."}
+{"id":14688777109602371,"text":"В начале полёта, если это здание находится в <color=#0000b0>грузовом отсеке</color>, <color=#0000b0>+3 с</color> <color=#0000b0>ко времени полёта</color>. В противном случае <color=#0000b0>-3 с</color> <color=#0000b0>ко времени полёта</color>."}
+{"id":15712915517440000,"text":"Когда вы получаете или улучшаете это здание, получите случайный <color=#0000b0>предмет</color>."}
+{"id":15712915546800132,"text":"Каждый раз, когда это здание <color=#0000b0>срабатывает критически</color>, получите {0:0.##}<sprite name=\"gold\">. Этот эффект не может <color=#0000b0>сработать критически</color>."}
+{"id":26098286604419072,"text":"Каждый раз, когда вы улучшаете здание, это здание навсегда начинает производить +3<sprite name=\"inspiration\">."}
+{"id":26098286604419073,"text":"Каждый раз, когда вы улучшаете здание, это здание навсегда начинает производить +5<sprite name=\"inspiration\">."}
+{"id":26098286604419074,"text":"Каждый раз, когда вы улучшаете здание, это здание навсегда начинает производить +7<sprite name=\"inspiration\">."}
+{"id":26148797676355586,"text":"Нанесите 7 урона и ещё +7 урона за каждую пустую клетку <sprite name=\"indicator\"> ({1:0.##} урона)."}
+{"id":26148797676355585,"text":"Нанесите 6 урона и ещё +6 урона за каждую пустую клетку <sprite name=\"indicator\"> ({1:0.##} урона)."}
+{"id":26148797676355584,"text":"Нанесите 5 урона и ещё +5 урона за каждую пустую клетку <sprite name=\"indicator\"> ({1:0.##} урона)."}
+{"id":26098286608613391,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, это здание навсегда начинает производить <color=#0000b0>+1</color><sprite name=\"food\">."}
+{"id":26098286608613392,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, это здание навсегда начинает производить <color=#0000b0>+2</color><sprite name=\"food\">."}
+{"id":26098286608613393,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, это здание навсегда начинает производить <color=#0000b0>+4</color><sprite name=\"food\">."}
+{"id":26098286608613398,"text":"Получите следующие бонусы за каждого члена экипажа, назначенного на это здание:<br><sprite name=\"labourer0\"><sprite name=\"labourer1\"><sprite name=\"labourer2\">: <color=#0000b0>+50%</color> <color=#0000b0>к шансу мультисрабатывания</color>.<br><sprite name=\"engineer0\"><sprite name=\"engineer1\"><sprite name=\"engineer2\">: <color=#0000b0>+50%</color> <color=#0000b0>к шансу критического удара</color>.<br><sprite name=\"artisan0\"><sprite name=\"artisan1\"><sprite name=\"artisan2\">: <color=#0000b0>+4</color><sprite name=\"production\">.<br><sprite name=\"merchant0\"><sprite name=\"merchant1\"><sprite name=\"merchant2\">: <color=#0000b0>+1</color> <color=#0000b0>к множителю критического урона</color>."}
+{"id":26098286608613401,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл, нанесите {1:0.##} урона."}
+{"id":27317969785552898,"text":"Получите 3<sprite name=\"food\"> и ещё <color=#0000b0>+3</color> <sprite name=\"food\"> за каждую <color=#0000b0>минеральную</color> клетку под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552899,"text":"Получите 4<sprite name=\"food\"> и ещё <color=#0000b0>+6</color> <sprite name=\"food\"> за каждую <color=#0000b0>минеральную</color> клетку под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552900,"text":"Получите 6<sprite name=\"food\"> и ещё <color=#0000b0>+9</color> <sprite name=\"food\"> за каждую <color=#0000b0>минеральную</color> клетку под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552906,"text":"Каждое здание на клетке <sprite name=\"indicator\">, которое производит <sprite name=\"gold\">, производит ещё +{0:0.##} <sprite name=\"gold\">."}
+{"id":27317969785552908,"text":"Здания <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> дают <color=#0000b0>+1</color> бонусный ресурс."}
+{"id":27317969785552909,"text":"Здания <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> дают <color=#0000b0>+2</color> бонусных ресурса."}
+{"id":27317969785552910,"text":"Здания <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> дают <color=#0000b0>+3</color> бонусных ресурса."}
+{"id":27317969785552915,"text":"Каждый раз, когда вы входите в поселение, каждое здание, построенное на <color=#0000b0>минеральной</color> клетке, навсегда начинает производить <color=#0000b0>+2</color> ресурсов и наносить <color=#0000b0>+2</color> урона."}
+{"id":27317969785552916,"text":"Каждый раз, когда вы входите в поселение, каждое здание, построенное на <color=#0000b0>минеральной</color> клетке, навсегда начинает производить <color=#0000b0>+3</color> ресурсов и наносить <color=#0000b0>+3</color> урона."}
+{"id":27317969785552917,"text":"Каждый раз, когда вы входите в поселение, каждое здание, построенное на <color=#0000b0>минеральной</color> клетке, навсегда начинает производить <color=#0000b0>+5</color> ресурсов и наносить <color=#0000b0>+5</color> урона."}
+{"id":32039619999399937,"text":"Получите 12<sprite name=\"production\"> за каждую клетку <color=#0000b0>Орихалка</color> или <color=#0000b0>Хламовой жилы</color> под этим зданием ({0:0.##}<sprite name=\"production\">)."}
+{"id":32039619999399936,"text":"Получите 12<sprite name=\"food\"> за каждую клетку <color=#0000b0>Роктория</color> или <color=#0000b0>Ксеногриба</color> под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552923,"text":"Получите 6<sprite name=\"food\"> за каждую клетку <color=#0000b0>Роктория</color> или <color=#0000b0>Ксеногриба</color> под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552924,"text":"Получите 6<sprite name=\"production\"> за каждую клетку <color=#0000b0>Орихалка</color> или <color=#0000b0>Хламовой жилы</color> под этим зданием ({0:0.##}<sprite name=\"production\">)."}
+{"id":27317969785552926,"text":"Получите 8<sprite name=\"food\"> за каждую клетку <color=#0000b0>Роктория</color> или <color=#0000b0>Ксеногриба</color> под этим зданием ({0:0.##}<sprite name=\"food\">)."}
+{"id":27317969785552927,"text":"Получите 8<sprite name=\"production\"> за каждую клетку <color=#0000b0>Орихалка</color> или <color=#0000b0>Хламовой жилы</color> под этим зданием ({0:0.##}<sprite name=\"production\">)."}
+{"id":32058393058181122,"text":"Каждое здание на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл (кроме другого здания с этим эффектом)."}
+{"id":27317969785552936,"text":"Эффекты, срабатывающие при утилизации здания, срабатывают ещё <color=#0000b0>+1</color> раз."}
+{"id":27317969785552937,"text":"Эффект тега <sprite name=\"animal0\"><sprite name=\"animal1\"><sprite name=\"animal2\"> даёт <color=#0000b0>+2</color> ресурсов и <color=#0000b0>+2</color> урона за каждого уникального члена экипажа <sprite name=\"animal0\"><sprite name=\"animal1\"><sprite name=\"animal2\">, назначенного на это здание <color=#0000b0>(+{0:0.##})</color>."}
+{"id":32060686914650117,"text":"Если утилизированное здание — здание <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\">, повторите этот эффект."}
+{"id":32060686914650114,"text":"Каждый раз, когда вы утилизируете здание, нанесите {1:0.##} урона."}
+{"id":31267765361672192,"text":"Получите 1<sprite name=\"food\"> и ещё +2<sprite name=\"food\"> за каждый <color=#0000b0>Заводной улей</color> на ковчеге ({0:0.##}<sprite name=\"food\">)."}
+{"id":31299683574710272,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+100%</color> <color=#0000b0>к шансу мультисрабатывания</color>."}
+{"id":31299683612459008,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл, нанесите ковчегу <color=#0000b0>{0:0.##}</color><sprite name=\"morale\"> урона."}
+{"id":45329937976885248,"text":"Нанесите 6 урона и ещё <color=#0000b0>+3</color> урона за каждого члена экипажа или предмет, назначенного на это здание ({1:0.##} урона)."}
+{"id":34441159326400512,"text":"Получите 9<sprite name=\"inspiration\"> и ещё <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>10%</color> <color=#0000b0>шанса критического удара</color> этого здания ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":34441159368343552,"text":"Получите 14<sprite name=\"inspiration\"> и ещё <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>20%</color> <color=#0000b0>шанса критического удара</color> этого здания ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":34441159368343553,"text":"Получите 21<sprite name=\"inspiration\"> и ещё <sprite name=\"inspiration\"> в количестве, равном <color=#0000b0>30%</color> <color=#0000b0>шанса критического удара</color> этого здания ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":34441159368343554,"text":"<color=#0000b0>+20%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":34441159368343555,"text":"<color=#0000b0>+30%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":34441159368343556,"text":"<color=#0000b0>+50%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":37328337010262021,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <color=#0000b0>мультисрабатывает</color>, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":38412332468895744,"text":"Каждый раз, когда вы утилизируете или расходуете члена экипажа либо предмет, каждое <color=#0000b0>Святилище</color> завершает <sprite name=\"cycle\"> цикл."}
+{"id":42431968667598848,"text":"Наложите на ковчег <color=#0000b0>Коррозию</color> и получите 30<sprite name=\"inspiration\">."}
+{"id":42431968692764673,"text":"Каждое здание на клетке <sprite name=\"indicator\"> слева получает <color=#0000b0>+50%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":42431968692764674,"text":"Каждое здание на клетке <sprite name=\"indicator\"> справа получает <color=#0000b0>+1</color> <color=#0000b0>к множителю критического урона</color>."}
+{"id":42431968692764675,"text":"В начале полёта <color=#0000b0>+7 с</color> <color=#0000b0>ко времени полёта</color>."}
+{"id":45130878896930816,"text":"Каждое здание <sprite name=\"military0\"><sprite name=\"military1\"><sprite name=\"military2\"> на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл на <color=#0000b0>50%</color> быстрее."}
+{"id":45329937976885249,"text":"Нанесите 11 урона и ещё <color=#0000b0>+4</color> урона за каждого члена экипажа или предмет, назначенного на это здание ({1:0.##} урона)."}
+{"id":45329937976885250,"text":"Нанесите 17 урона и ещё <color=#0000b0>+5</color> урона за каждого члена экипажа или предмет, назначенного на это здание ({1:0.##} урона)."}
+{"id":45329937976885257,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, это здание <sprite name=\"cycle\"> <color=#0000b0>завершает цикл</color>."}
+{"id":49787709267214338,"text":"Каждый раз, когда вы расходуете <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">, получите {0:0.##}<sprite name=\"gold\"> и {1:0.##}<sprite name=\"inspiration\">."}
+{"id":49787709267214341,"text":"Каждый раз, когда вы получаете <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">, это здание навсегда начинает производить <color=#0000b0>+2</color><sprite name=\"inspiration\">."}
+{"id":49787709267214342,"text":"Каждый раз, когда вы получаете <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">, это здание навсегда начинает производить <color=#0000b0>+3</color><sprite name=\"inspiration\">."}
+{"id":49787709267214343,"text":"Каждый раз, когда вы получаете <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">, это здание навсегда начинает производить <color=#0000b0>+4</color><sprite name=\"inspiration\">."}
+{"id":51237932703252480,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"inspiration\">."}
+{"id":51588631156850688,"text":"Получите 4<sprite name=\"inspiration\"> за каждое здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> и 4<sprite name=\"food\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">, {1:0.##}<sprite name=\"food\">)."}
+{"id":51588631156850689,"text":"Получите 7<sprite name=\"inspiration\"> за каждое здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> и 7<sprite name=\"food\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">, {1:0.##}<sprite name=\"food\">)."}
+{"id":51588631156850690,"text":"Получите 11<sprite name=\"inspiration\"> за каждое здание <sprite name=\"agricultural0\"><sprite name=\"agricultural1\"><sprite name=\"agricultural2\"> на клетке <sprite name=\"indicator\"> и 11<sprite name=\"food\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">, {1:0.##}<sprite name=\"food\">)."}
+{"id":74836362943889408,"text":"Нанесите {0:0.##}x{1:0.##} урона."}
+{"id":74836362977443842,"text":"Получите <sprite name=\"production\"> в количестве, равном <sprite name=\"armor\"> <color=#0000b0>броне</color> ковчега <color=#0000b0>({0:0.##}<sprite name=\"production\">)</color>."}
+{"id":76466699528667136,"text":"Каждый раз, когда ковчег получает урон, если на это здание назначен член экипажа, нанесите {1:0.##} урона случайному врагу."}
+{"id":76466699528667139,"text":"Каждый раз, когда вы утилизируете здание, получите {0:0.##} <sprite name=\"armor\"> <color=#0000b0>брони</color>."}
+{"id":76466699528667142,"text":"Нанесите ковчегу {0:0.##}<sprite name=\"morale\"> урона."}
+{"id":106066881815609344,"text":"Каждое здание на клетке <sprite name=\"indicator\"> производит <color=#ff0022>-3</color> ресурсов и наносит <color=#ff0022>-3</color> урона, но получает <color=#0000b0>+50%</color> <color=#0000b0>к шансу мультисрабатывания</color>."}
+{"id":110417944265580546,"text":"Каждый раз, когда вы получаете <color=#0000b0>Реликвию</color>, это здание навсегда начинает производить <color=#0000b0>+12</color><sprite name=\"inspiration\">."}
+{"id":110417944265580547,"text":"Каждый раз, когда вы получаете <color=#0000b0>Реликвию</color>, это здание навсегда начинает производить <color=#0000b0>+18</color><sprite name=\"inspiration\">."}
+{"id":110417944265580548,"text":"Каждый раз, когда вы получаете <color=#0000b0>Реликвию</color>, это здание навсегда начинает производить <color=#0000b0>+24</color><sprite name=\"inspiration\">."}
+{"id":110738621178798080,"text":"Каждый раз, когда вы утилизируете здание, каждое здание на клетке <sprite name=\"indicator\">, производящее <sprite name=\"food\">, навсегда начинает производить <color=#0000b0>+1</color> <sprite name=\"food\">."}
+{"id":110738621178798082,"text":"Каждый раз, когда вы утилизируете здание, каждое здание на клетке <sprite name=\"indicator\">, производящее <sprite name=\"food\">, навсегда начинает производить <color=#0000b0>+2</color> <sprite name=\"food\">."}
+{"id":110738621178798084,"text":"Каждый раз, когда вы утилизируете здание, каждое здание на клетке <sprite name=\"indicator\">, производящее <sprite name=\"food\">, навсегда начинает производить <color=#0000b0>+3</color> <sprite name=\"food\">."}
+{"id":110738621178798088,"text":"Когда вы получаете это здание, наложите на него <color=#0000b0>Заморозку</color> на <color=#0000b0>120 с</color>. Это здание остаётся <color=#0000b0>замороженным</color> между полётами."}
+{"id":110738621178798091,"text":"Каждый раз, когда вы входите в поселение, получите здание <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> и <color=#0000b0>Спрессованный хлам</color>."}
+{"id":111146463895445506,"text":"Каждый раз, когда это здание <color=#0000b0>ускоряется</color>, получите {0:0.##}<sprite name=\"production\">."}
+{"id":112183847017734147,"text":"Когда вы улучшаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">:<br><b><color=#0000b0>Уровень 2</color></b>: получите здание <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\">.<br><b><color=#0000b0>Уровень 3</color></b>: получите <color=#0000b0>Склад хлама</color>, затем уничтожьте этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">."}
+{"id":112936341117296640,"text":"Получите <sprite name=\"inspiration\"> в количестве, равном оставшемуся <color=#0000b0>времени полёта</color>. Стройте это здание только на клетке <color=#0000b0>Носа</color>. (<color=#0000b0>Время полёта</color> равно нулю, если ковчег пришвартован в поселении.)"}
+{"id":112936341138268163,"text":"<sprite name=\"sutra0\"><sprite name=\"sutra1\"><sprite name=\"sutra2\">, назначенные на это здание, не исчезают по истечении срока действия."}
+{"id":112936341138268166,"text":"Нанесите урон, равный числу зарядов <color=#0000b0>эффектов состояния</color> на цели."}
+{"id":117737544456036355,"text":"<color=#0000b0><b>Рука помощи</b> — Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>шанс мультисрабатывания</color>, равный <color=#0000b0>200%</color>, делённым на количество зданий на клетках <sprite name=\"indicator\">.</color>"}
+{"id":117737544456036358,"text":"<color=#0000b0><b>Коллективный разум</b> — Каждый раз, когда вы входите в поселение, у вас есть 50% шанс получить члена экипажа <color=#0000b0>Мозговой червь</color> за каждое здание, построенное на клетке <color=#0000b0>Ксеногриба</color>.</color>"}
+{"id":117737544456036360,"text":"<color=#0000b0><b>Мусор в дело</b> — Каждый раз, когда вы входите в поселение, получите здание <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> за каждое здание не-<sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\">, построенное на клетке <color=#0000b0>Хламовой жилы</color> ({0:0.##} зданий).</color>"}
+{"id":117737544456036362,"text":"Получите {0:0.##}<sprite name=\"food\">.<br>"}
+{"id":117737544456036363,"text":"<color=#0000b0><b>Каннибализм</b> — Здания больше не потребляют <sprite name=\"food\">.</color>"}
+{"id":117737544456036365,"text":"<color=#0000b0><b>Под присмотром</b> — Время <sprite name=\"cycle\"> цикла зданий сокращается на 50%, пока вы держите над ними курсор.</color>"}
+{"id":119222688069148672,"text":"Получите {0:0.##}<sprite name=\"food\">, {1:0.##}<sprite name=\"production\"> и {2:0.##}<sprite name=\"inspiration\">.<br><br><color=#0000b0><b>Храмовый комплекс</b> — Это здание очень большое.</color>"}
+{"id":120112587823603712,"text":"Получите 4<sprite name=\"food\">, 4<sprite name=\"production\"> и 4<sprite name=\"inspiration\">.<br>"}
+{"id":120112587848769536,"text":"<sprite name=\"passive0\"><sprite name=\"passive1\"><sprite name=\"passive2\">: <color=#0000b0><b>Сияние</b> —<br>Каждое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> производит +1<sprite name=\"production\"> за каждое другое здание <sprite name=\"industrial0\"><sprite name=\"industrial1\"><sprite name=\"industrial2\"> на ковчеге.<br>Каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> производит +1<sprite name=\"inspiration\"> за каждое другое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге.</color>"}
+{"id":120112587848769537,"text":"Получите 5<sprite name=\"food\">, 5<sprite name=\"production\"> и 5<sprite name=\"inspiration\">.<br><br><color=#0000b0><b>Храмовый комплекс</b> — Это здание очень большое.</color>"}
+{"id":120112587848769539,"text":"<sprite name=\"passive0\"><sprite name=\"passive1\"><sprite name=\"passive2\">: <color=#0000b0><b>Рука помощи</b> — Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>шанс мультисрабатывания</color>, равный <color=#0000b0>200%</color>, делённым на количество зданий на клетках <sprite name=\"indicator\">.</color>"}
+{"id":120112587848769542,"text":"Получите 5<sprite name=\"food\"> и 5<sprite name=\"inspiration\">.<br>"}
+{"id":120112587848769543,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Коллективный разум</b> — Каждый раз, когда вы входите в поселение, у вас есть 50% шанс получить члена экипажа <color=#0000b0>Мозговой червь</color> за каждое здание, построенное на клетке <color=#0000b0>Ксеногриба</color>.</color>"}
+{"id":120112587848769544,"text":"Получите 6<sprite name=\"food\"> и 6<sprite name=\"production\">.<br>"}
+{"id":120112587848769545,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Мусор в дело</b> — Каждый раз, когда вы входите в поселение, получите здание <sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\"> за каждое здание не-<sprite name=\"junk0\"><sprite name=\"junk1\"><sprite name=\"junk2\">, построенное на клетке <color=#0000b0>Хламовой жилы</color>.</color>"}
+{"id":120112587848769546,"text":"Получите 7<sprite name=\"food\"> и 7<sprite name=\"inspiration\">.<br>"}
+{"id":120112587848769547,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Адреналин</b> — Каждый раз, когда это здание завершает <sprite name=\"cycle\"> цикл, его следующий <sprite name=\"cycle\"> цикл выполняется на <color=#0000b0>10%</color> быстрее до конца полёта.</color>"}
+{"id":120112587848769548,"text":"Получите 10<sprite name=\"food\">.<br>"}
+{"id":120112587848769549,"text":"<sprite name=\"passive0\"><sprite name=\"passive1\"><sprite name=\"passive2\">: <color=#0000b0><b>Каннибализм</b> — Здания больше не потребляют <sprite name=\"food\">.</color>"}
+{"id":120112587848769550,"text":"Получите 5<sprite name=\"food\">, 5<sprite name=\"production\"> и 5<sprite name=\"inspiration\">.<br>"}
+{"id":120112587848769551,"text":"<sprite name=\"passive0\"><sprite name=\"passive1\"><sprite name=\"passive2\">: <color=#0000b0><b>Под присмотром</b> — Время <sprite name=\"cycle\"> цикла зданий сокращается на 50%, пока вы держите над ними курсор.</color>"}
+{"id":120272861029425152,"text":"Получите 7<sprite name=\"food\"> и 7<sprite name=\"production\">.<br>"}
+{"id":120272861046202368,"text":"<sprite name=\"passive0\"><sprite name=\"passive1\"><sprite name=\"passive2\">: <color=#0000b0><b>Богатая жила</b> — Каждое здание, построенное на клетке <color=#0000b0>Роктория</color> или <color=#0000b0>Орихалка</color>, производит соответственно <color=#0000b0>+30%</color> <sprite name=\"food\"> или <sprite name=\"production\">.</color>"}
+{"id":120658812700418048,"text":"<color=#0000b0><b>Вечный трон</b> — При первом назначении члена экипажа или предмета на это здание <color=#0000b0>скопируйте</color> его эффекты <color=#0000b0>три раза</color>. Членов экипажа и предметы нельзя снять с этого здания.</color>"}
+{"id":120658812700418049,"text":"Получите 3<sprite name=\"food\">, 3<sprite name=\"production\"> и 3<sprite name=\"inspiration\">.<br>"}
+{"id":120658812700418050,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Вечный трон</b> — При первом назначении члена экипажа или предмета на это здание <color=#0000b0>скопируйте</color> его эффекты <color=#0000b0>три раза</color>. Членов экипажа и предметы нельзя снять с этого здания.</color>"}
+{"id":121354072086765576,"text":"Когда вы получаете это здание, получите <color=#0000b0>2</color> предмета <sprite name=\"invention0\"><sprite name=\"invention1\"><sprite name=\"invention2\">."}
+{"id":121590654140112896,"text":"<color=#0000b0><b>Рыцарский поход</b> — Каждый раз, когда это здание завершает <sprite name=\"cycle\"> цикл, бросьте врагу <color=#0000b0>Вызов</color>, чтобы он вступил в бой, если возможно.</color>"}
+{"id":121590654140112899,"text":"Каждое здание на клетке <sprite name=\"indicator\"> наносит +{0:0.##} урона."}
+{"id":121590654140112903,"text":"Каждый раз, когда вы уничтожаете врага, это здание <sprite name=\"cycle\"> <color=#0000b0>завершает цикл</color>."}
+{"id":121590654140112904,"text":"Каждый раз, когда вы уничтожаете врага, это здание <sprite name=\"cycle\"> <color=#0000b0>завершает 2 цикла</color>."}
+{"id":121590654140112905,"text":"Каждый раз, когда вы уничтожаете врага, это здание <sprite name=\"cycle\"> <color=#0000b0>завершает 3 цикла</color>."}
+{"id":121590654140112906,"text":"Нанесите {1:0.##} урона и наложите <color=#0000b0>Горение</color>."}
+{"id":121590654140112909,"text":"Получите <color=#0000b0>Боевой клич</color>."}
+{"id":121590654140112915,"text":"Каждый раз, когда вы расходуете <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\">, это здание завершает <sprite name=\"cycle\"> цикл."}
+{"id":121590654140112918,"text":"Получение <sprite name=\"morale\"> <color=#0000b0>морали</color> за уничтожение врагов немного увеличено."}
+{"id":121590654140112919,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, получите <color=#0000b0>Боевой клич 1</color>."}
+{"id":121590654140112920,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, получите <color=#0000b0>Боевой клич 2</color>."}
+{"id":121590654140112921,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, получите <color=#0000b0>Боевой клич 3</color>."}
+{"id":121590654140112925,"text":"Каждый раз, когда вы уничтожаете врага, это здание навсегда начинает наносить <color=#0000b0>+1</color> урона."}
+{"id":121590654140112926,"text":"Каждый раз, когда вы уничтожаете врага, это здание навсегда начинает наносить <color=#0000b0>+2</color> урона."}
+{"id":121590654140112927,"text":"Каждый раз, когда вы уничтожаете врага, это здание навсегда начинает наносить <color=#0000b0>+3</color> урона."}
+{"id":121590654140112929,"text":"Когда вы размещаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">, получите <color=#0000b0>Гениального изобретателя</color>.<br>"}
+{"id":121590654140112932,"text":"Когда вы улучшаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">:<br><b><color=#0000b0>Уровень 2</color></b>: без эффекта.<br><b><color=#0000b0>Уровень 3</color></b>: получите <color=#0000b0>Ядерную боеголовку</color>, затем уничтожьте этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">."}
+{"id":121590654140112938,"text":"Каждый раз, когда вы уничтожаете врага, получите <color=#0000b0>Боевой клич 3</color>."}
+{"id":121590654140112939,"text":"Каждый раз, когда вы уничтожаете врага, получите <color=#0000b0>Боевой клич 4</color>."}
+{"id":121590654140112940,"text":"Каждый раз, когда вы уничтожаете врага, получите <color=#0000b0>Боевой клич 5</color>."}
+{"id":121590654140112941,"text":"При утилизации получите на <color=#0000b0>+1</color><sprite name=\"gold\"> больше."}
+{"id":121590654140112942,"text":"При утилизации получите на <color=#0000b0>+2</color><sprite name=\"gold\"> больше."}
+{"id":121590654140112943,"text":"При утилизации получите на <color=#0000b0>+3</color><sprite name=\"gold\"> больше."}
+{"id":121590654140112944,"text":"Каждый раз, когда вы уничтожаете врага, получите <sprite name=\"gold\"> в количестве, равном ценности этого здания при утилизации."}
+{"id":121590654140112947,"text":"Нанесите {1:0.##} урона. Во время <color=#0000b0>Боевого клича</color> атаки этого здания накладывают <color=#0000b0>Горение</color>."}
+{"id":121590654140112951,"text":"Предметы <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\"> наносят <color=#0000b0>+50%</color> урона."}
+{"id":121590654140112952,"text":"Предметы <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\"> наносят <color=#0000b0>+100%</color> урона."}
+{"id":121590654140112953,"text":"Предметы <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\"> наносят <color=#0000b0>+150%</color> урона."}
+{"id":121590654140112954,"text":"Когда вы получаете это здание, получите предмет <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\">."}
+{"id":121590654140112957,"text":"Каждое здание <sprite name=\"military0\"><sprite name=\"military1\"><sprite name=\"military2\"> на клетке <sprite name=\"indicator\"> стреляет ещё <color=#0000b0>+1</color> раз."}
+{"id":121590654140112959,"text":"Каждое здание <sprite name=\"military0\"><sprite name=\"military1\"><sprite name=\"military2\"> на клетке <sprite name=\"indicator\"> стреляет ещё <color=#0000b0>+2</color> раза."}
+{"id":121590654140112963,"text":"Эффект состояния <color=#0000b0>Горение</color> наносит <color=#0000b0>+1</color> урона за заряд."}
+{"id":121590654140112964,"text":"Эффект состояния <color=#0000b0>Горение</color> наносит <color=#0000b0>+2</color> урона за заряд."}
+{"id":121590654140112965,"text":"Эффект состояния <color=#0000b0>Горение</color> наносит <color=#0000b0>+3</color> урона за заряд."}
+{"id":121590654140112970,"text":"Нанесите {1:0.##} урона. Ядра, выпущенные этим зданием, считаются предметами <sprite name=\"bomb0\"><sprite name=\"bomb1\"><sprite name=\"bomb2\">."}
+{"id":121590654140112978,"text":"<color=#0000b0><b>Реанимация</b> — Разместите <color=#0000b0>12</color> <color=#0000b0>Окаменевших статуй</color>. Каждый раз, когда вы заполняете <sprite name=\"inspiration\"> <color=#0000b0>шкалу вдохновения</color>, получите <color=#0000b0>Душу в клетке</color> вместо <color=#0000b0>Контракта на выбор</color>.</color>"}
+{"id":121590654140112979,"text":"Получите 3<sprite name=\"food\">, 5<sprite name=\"production\"> и 5<sprite name=\"inspiration\">.<br>"}
+{"id":121590654140112980,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Реанимация</b> — Разместите <color=#0000b0>12</color> <color=#0000b0>Окаменевших статуй</color>. Каждый раз, когда вы заполняете <sprite name=\"inspiration\"> <color=#0000b0>шкалу вдохновения</color>, получите <color=#0000b0>Душу в клетке</color> вместо <color=#0000b0>Контракта на выбор</color>.</color>"}
+{"id":121590654140112981,"text":"Получите 2<sprite name=\"inspiration\"> и ещё +1<sprite name=\"inspiration\"> за каждое здание <sprite name=\"entomb0\"><sprite name=\"entomb1\"><sprite name=\"entomb2\"> в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":121590654140112982,"text":"Получите 4<sprite name=\"inspiration\"> и ещё +2<sprite name=\"inspiration\"> за каждое здание <sprite name=\"entomb0\"><sprite name=\"entomb1\"><sprite name=\"entomb2\"> в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":121590654140112983,"text":"Получите 6<sprite name=\"inspiration\"> и ещё +3<sprite name=\"inspiration\"> за каждое здание <sprite name=\"entomb0\"><sprite name=\"entomb1\"><sprite name=\"entomb2\"> в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":121590654140112984,"text":"Когда вы получаете это здание, получите <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\">."}
+{"id":121590654140112987,"text":"Каждый раз, когда вы получаете члена экипажа или предмет, получите {0:0.##}<sprite name=\"food\">."}
+{"id":121590654140112990,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, получите {0:0.##}<sprite name=\"food\">."}
+{"id":121590654140112996,"text":"Каждое здание <sprite name=\"entomb0\"><sprite name=\"entomb1\"><sprite name=\"entomb2\"> в <color=#0000b0>грузовом отсеке</color> производит <color=#0000b0>+{0:0.##}</color> ресурсов."}
+{"id":121590654140112997,"text":"Когда это здание размещено, получите малую <color=#0000b0>Реликвию</color>."}
+{"id":121590654140112998,"text":"Нанесите урон, равный текущему этапу ({1:0.##} урона)."}
+{"id":121590654140112999,"text":"Получите {0:0.##}<sprite name=\"gold\">. Если это здание оживлено <color=#0000b0>Душой в клетке</color>, получите <color=#0000b0>Реликвию</color> вместо члена экипажа."}
+{"id":121590654140113000,"text":"Когда вы размещаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">, получите <color=#0000b0>Кровавую жертву</color>.<br>"}
+{"id":121590654140113003,"text":"Когда вы улучшаете этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">:<br><b><color=#0000b0>Уровень 2</color></b>: получите <color=#0000b0>Мозг в банке</color>.<br><b><color=#0000b0>Уровень 3</color></b>: получите <color=#0000b0>Душу в клетке</color>, затем уничтожьте этот <sprite name=\"project0\"><sprite name=\"project1\"><sprite name=\"project2\">."}
+{"id":121590654140113015,"text":"Это здание стреляет ещё раз за каждого назначенного на него <sprite name=\"courtier0\"><sprite name=\"courtier1\"><sprite name=\"courtier2\">."}
+{"id":121590654140113018,"text":"Получите 2<sprite name=\"food\"> и ещё +2<sprite name=\"food\"> за каждую <sprite name=\"statue0\"><sprite name=\"statue1\"><sprite name=\"statue2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":121590654140113019,"text":"Получите 3<sprite name=\"food\"> и ещё +3<sprite name=\"food\"> за каждую <sprite name=\"statue0\"><sprite name=\"statue1\"><sprite name=\"statue2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":121590654140113020,"text":"Получите 4<sprite name=\"food\"> и ещё +4<sprite name=\"food\"> за каждую <sprite name=\"statue0\"><sprite name=\"statue1\"><sprite name=\"statue2\"> на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"food\">)."}
+{"id":121590654140113021,"text":"Это здание навсегда начинает производить +1<sprite name=\"inspiration\">."}
+{"id":121590654140113022,"text":"Это здание навсегда начинает производить +2<sprite name=\"inspiration\">."}
+{"id":121590654140113023,"text":"Это здание навсегда начинает производить +3<sprite name=\"inspiration\">."}
+{"id":121590654140113024,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, если это здание находится в <color=#0000b0>грузовом отсеке</color>, получите 1<sprite name=\"inspiration\"> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":121590654140113027,"text":"Каждый раз, когда вы входите в поселение, получите <sprite name=\"gold\"> в количестве, равном числу занятых клеток на ковчеге ({0:0.##}<sprite name=\"gold\">)."}
+{"id":121590654140113028,"text":"Каждый раз, когда вы входите в поселение, получите <sprite name=\"gold\"> в количестве, равном <color=#0000b0>удвоенному</color> числу занятых клеток на ковчеге ({0:0.##}<sprite name=\"gold\">)."}
+{"id":121590654140113029,"text":"Каждый раз, когда вы входите в поселение, получите <sprite name=\"gold\"> в количестве, равном <color=#0000b0>утроенному</color> числу занятых клеток на ковчеге ({0:0.##}<sprite name=\"gold\">)."}
+{"id":121590654140113033,"text":"Наложите <color=#0000b0>Коррозию 2</color>."}
+{"id":121590654140113037,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, кроме <color=#0000b0>Сшитого гуля</color>, у вас есть <color=#0000b0>35%</color> шанс получить <color=#0000b0>Сшитого гуля</color>."}
+{"id":121590654140113038,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, кроме <color=#0000b0>Сшитого гуля</color>, у вас есть <color=#0000b0>50%</color> шанс получить <color=#0000b0>Сшитого гуля</color>."}
+{"id":121590654140113039,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет, кроме <color=#0000b0>Сшитого гуля</color>, у вас есть <color=#0000b0>70%</color> шанс получить <color=#0000b0>Сшитого гуля</color>."}
+{"id":121590654140113043,"text":"Временные бонусы этого здания, которые обычно исчезают в конце полёта, вместо этого становятся постоянными."}
+{"id":121590654140113046,"text":"Каждый раз, когда здание завершает <sprite name=\"cycle\"> цикл, получите {0:0.##}<sprite name=\"production\">."}
+{"id":121590654140113049,"text":"Каждый раз, когда вы уничтожаете врага, активируйте <sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\"> эффект каждого здания <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\"> в <color=#0000b0>грузовом отсеке</color> <color=#0000b0>x2</color>."}
+{"id":121590654140113050,"text":"Каждый раз, когда вы уничтожаете врага, активируйте <sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\"> эффект каждого здания <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\"> в <color=#0000b0>грузовом отсеке</color> <color=#0000b0>x3</color>."}
+{"id":121590654140113051,"text":"Каждый раз, когда вы уничтожаете врага, активируйте <sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\"> эффект каждого здания <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\"> в <color=#0000b0>грузовом отсеке</color> <color=#0000b0>x4</color>."}
+{"id":121590654140113052,"text":"Каждая <sprite name=\"statue0\"><sprite name=\"statue1\"><sprite name=\"statue2\"> на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл на <color=#0000b0>50%</color> быстрее."}
+{"id":121590654140113054,"text":"Каждый раз, когда вы расходуете члена экипажа или предмет на этом здании, каждое здание на клетке <sprite name=\"indicator\"> завершает <sprite name=\"cycle\"> цикл."}
+{"id":121590654140113056,"text":"<color=#0000b0><b>Похититель душ</b> — Разместите <color=#0000b0>8</color> <color=#0000b0>Окаменевших солдат</color>. Каждый раз, когда вы уничтожаете врага, получите <color=#0000b0>Душу в клетке</color>.</color>"}
+{"id":121590654140113057,"text":"Получите 4<sprite name=\"food\"> и 4<sprite name=\"inspiration\">.<br>"}
+{"id":121590654140113058,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Похититель душ</b> — Разместите <color=#0000b0>8</color> <color=#0000b0>Окаменевших солдат</color>. Каждый раз, когда вы уничтожаете врага, получите <color=#0000b0>Душу в клетке</color>.</color>"}
+{"id":121590654140113059,"text":"Получите {0:0.##}<sprite name=\"food\"> и {1:0.##}<sprite name=\"gold\">.<br>"}
+{"id":121590654140113060,"text":"<color=#0000b0><b>Реквизиция</b> — Разместите <color=#0000b0>6</color> <color=#0000b0>Королевских сундуков</color>. Каждый раз, когда вы входите в поселение, получите <color=#0000b0>Душу в клетке</color>.</color>"}
+{"id":121590654140113061,"text":"Получите 6<sprite name=\"food\"> и 3<sprite name=\"gold\">.<br>"}
+{"id":121590654140113062,"text":"<sprite name=\"triggered0\"><sprite name=\"triggered1\"><sprite name=\"triggered2\">: <color=#0000b0><b>Реквизиция</b> — Разместите <color=#0000b0>6</color> <color=#0000b0>Королевских сундуков</color>. Каждый раз, когда вы входите в поселение, получите <color=#0000b0>Душу в клетке</color>.</color>"}
+{"id":8114399752323076,"text":""}
+{"id":26148797676355592,"text":""}
+{"id":26148797676355591,"text":""}
+{"id":26148797676355590,"text":""}
+{"id":27317969785552901,"text":""}
+{"id":27317969785552902,"text":""}
+{"id":27317969785552903,"text":""}
+{"id":38412332468895748,"text":""}
+{"id":38412332468895749,"text":""}
+{"id":38412332468895750,"text":""}
+{"id":45329937976885251,"text":""}
+{"id":45329937976885252,"text":""}
+{"id":45329937976885253,"text":""}
+{"id":121730614461685760,"text":"Получите {0:0.##}<sprite name=\"food\">.<br><br><color=#0000b0><b>Модульность</b> — Это здание относится к <sprite name=\"rig0\"><sprite name=\"rig1\"><sprite name=\"rig2\"> и его можно перемещать.</color>"}
+{"id":121730614478462976,"text":"Получите 5<sprite name=\"food\">.<br><br><color=#0000b0><b>Модульность</b> — Это здание относится к <sprite name=\"rig0\"><sprite name=\"rig1\"><sprite name=\"rig2\"> и его можно перемещать.</color>"}
+{"id":122283512073510912,"text":"Получите 3<sprite name=\"production\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге, включая это здание ({0:0.##}<sprite name=\"production\">)."}
+{"id":122283512094482432,"text":"Получите 5<sprite name=\"production\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге, включая это здание ({0:0.##}<sprite name=\"production\">)."}
+{"id":122283512094482433,"text":"Получите 7<sprite name=\"production\"> за каждое здание <sprite name=\"academic0\"><sprite name=\"academic1\"><sprite name=\"academic2\"> на ковчеге, включая это здание ({0:0.##}<sprite name=\"production\">)."}
+{"id":132274945840865280,"text":"Получите {0:0.##} <sprite name=\"armor\"> <color=#0000b0>брони</color> до конца полёта."}
+{"id":142880610770706432,"text":"Каждый раз, когда здание <sprite name=\"reactor0\"><sprite name=\"reactor1\"><sprite name=\"reactor2\"> завершает <sprite name=\"cycle\"> цикл, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":142880610795872256,"text":"Каждый раз, когда здание <sprite name=\"reactor0\"><sprite name=\"reactor1\"><sprite name=\"reactor2\"> завершает <sprite name=\"cycle\"> цикл, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":142880610795872257,"text":"Каждый раз, когда здание <sprite name=\"reactor0\"><sprite name=\"reactor1\"><sprite name=\"reactor2\"> завершает <sprite name=\"cycle\"> цикл, получите {0:0.##}<sprite name=\"inspiration\">."}
+{"id":162037767491510272,"text":"Получите 2<sprite name=\"inspiration\"> и ещё +1<sprite name=\"inspiration\"> за каждый уникальный <color=#0000b0>тег</color> среди зданий и членов экипажа в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":162037767525064704,"text":"Получите 3<sprite name=\"inspiration\"> и ещё +2<sprite name=\"inspiration\"> за каждый уникальный <color=#0000b0>тег</color> среди зданий и членов экипажа в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":162037767525064705,"text":"Получите 5<sprite name=\"inspiration\"> и ещё +3<sprite name=\"inspiration\"> за каждый уникальный <color=#0000b0>тег</color> среди зданий и членов экипажа в <color=#0000b0>грузовом отсеке</color> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":162037767525064709,"text":"Каждый раз, когда вы уничтожаете врага, у вас есть <color=#0000b0>20%</color> шанс получить <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\">."}
+{"id":162037767525064710,"text":"Каждый раз, когда вы уничтожаете врага, у вас есть <color=#0000b0>30%</color> шанс получить <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\">."}
+{"id":162037767525064711,"text":"Каждый раз, когда вы уничтожаете врага, у вас есть <color=#0000b0>50%</color> шанс получить <sprite name=\"effigy0\"><sprite name=\"effigy1\"><sprite name=\"effigy2\">."}
+{"id":165241430427000833,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+40%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":165241430427000834,"text":"Получите 2<sprite name=\"inspiration\"> за каждое здание на клетке <sprite name=\"indicator\"> ({0:0.##}<sprite name=\"inspiration\">)."}
+{"id":165241430427000839,"text":"Каждое здание на клетке <sprite name=\"indicator\"> получает <color=#0000b0>+50%</color> <color=#0000b0>к шансу критического удара</color>."}
+{"id":165241430427000840,"text":"Каждый раз, когда здание на клетке <sprite name=\"indicator\"> <color=#0000b0>срабатывает критически</color>, потеряйте <color=#0000b0>2</color><sprite name=\"gold\">."}
+{"id":165673842080440320,"text":"Нанесите {1:0.##} урона.<br><br><color=#0000b0><b>Здравица</b> — Каждый раз, когда это здание завершает <sprite name=\"cycle\"> цикл, если врагов нет, каждое здание на ковчеге производит <color=#0000b0>+1</color> ресурсов до конца полёта.</color>"}
+{"id":165673842080440321,"text":"Нанесите 8 урона.<br><br><color=#0000b0><b>Здравица</b> — Каждый раз, когда это здание завершает <sprite name=\"cycle\"> цикл, если врагов нет, каждое здание на ковчеге производит <color=#0000b0>+1</color> ресурсов до конца полёта.</color>"}
+{"id":167421240783888384,"text":"В начале полёта переместите это здание на одну клетку вверх, если возможно. Затем, если это здание находится на клетке <color=#0000b0>Носа</color>, уничтожьте его и получите <color=#0000b0>Белого ферзя</color>. Стройте это здание только на клетке <color=#0000b0>Кормы</color>."}
+{"id":168928598521503744,"text":"Каждый раз, когда вы входите в поселение, получите <color=#0000b0>копию</color> каждого члена экипажа или предмета, назначенного на это здание."}
+{"id":168928598550863872,"text":"Каждый раз, когда вы входите в поселение, получите <color=#0000b0>копию</color> каждого члена экипажа или предмета, назначенного на это здание."}
+{"id":168928598550863873,"text":"Каждый раз, когда вы входите в поселение, получите <color=#0000b0>копию</color> каждого члена экипажа или предмета, назначенного на это здание."}

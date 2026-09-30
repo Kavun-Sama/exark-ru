@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>ExarkRu.Runtime</AssemblyName>
+    <RootNamespace>ExarkRu.Runtime</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(GameManagedDir)\UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UIModule" HintPath="$(GameManagedDir)\UnityEngine.UIModule.dll" Private="false" />
+    <Reference Include="UnityEngine.UI" HintPath="$(GameManagedDir)\UnityEngine.UI.dll" Private="false" />
+    <Reference Include="Unity.Localization" HintPath="$(GameManagedDir)\Unity.Localization.dll" Private="false" />
+    <Reference Include="Unity.ResourceManager" HintPath="$(GameManagedDir)\Unity.ResourceManager.dll" Private="false" />
+    <Reference Include="Unity.TextMeshPro" HintPath="$(GameManagedDir)\Unity.TextMeshPro.dll" Private="false" />
+    <Reference Include="Newtonsoft.Json" HintPath="$(GameManagedDir)\Newtonsoft.Json.dll" Private="false" />
+  </ItemGroup>
+</Project>
